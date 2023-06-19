@@ -7,7 +7,7 @@ The solution for the problem hereby involves leveraging the Cancer Dataset to de
 ## Observation:
 The Cancer Dataset offers insights into the characteristics and attributes of cancer patients. By examining the dataset, we can observe the patterns and relationships between the provided features and resulting tumour classification from diagnosis column. This can help in understanding the factor that contribute to development and progression of cancer and assist in identifying potential risk factor or indicators
 ## Insights:
-Analyzing the cancer dataset,we can provide the valuable insights into the following areas:
-1. Feature Importance: By studying the correlation and significance of each feature with the tumour classification, we can gain insights into which attributes play a crucial role in determining whether a tumour is Benign(B) or Malignant(M). This information can aid in understanding the key factors contributing to cancer progression.
-
+Analyzing the cancer dataset,we can provide the valuable insights into the following areas: Feature Importance: By studying the correlation and significance of each feature with the tumour classification, we can gain insights into which attributes play a crucial role in determining whether a tumour is Benign(B) or Malignant(M). This information can aid in understanding the key factors contributing to cancer progression.
+## Treatment Outcomes: 
+By examining the treatment and outcome data, we can gain insights into the effectiveness of different treatment approaches and their impact on patient outcomes.This can help identify patterns in successful treatments and guide future treatment strategies.
 
