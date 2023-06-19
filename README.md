@@ -13,7 +13,7 @@ By studying the correlation and significance of each feature with the tumour cla
 ### Treatment Outcomes: 
 By examining the treatment and outcome data, we can gain insights into the effectiveness of different treatment approaches and their impact on patient outcomes.This can help identify patterns in successful treatments and guide future treatment strategies.
 ## Finding:
-	Based on the analysis of the Cancer Classification Dataset, the following findings and conclusions can be derived:
+Based on the analysis of the Cancer Classification Dataset, the following findings and conclusions can be derived:
 1. ### Identification of significant features:
    The dataset analysis may reveal which features have the most substantial impact on tumour classification. For example, tumour size might be crucial factors in 
    distinguishing between Benign(B) or Malignant(M) tumours.
