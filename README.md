@@ -15,14 +15,19 @@ By examining the treatment and outcome data, we can gain insights into the effec
 ## Finding:
 	Based on the analysis of the Cancer Classification Dataset, the following findings and conclusions can be derived:
 1. ### Identification of significant features:
-The dataset analysis may reveal which features have the most substantial impact on tumour classification. For example, tumour size might be crucial factors in distinguishing between Benign(B) or Malignant(M) tumours.
-2. ### Evaluation of treatment effectiveness: 
-By examining the treatment and outcome data, it is possible to identify treatment approaches that yield higher success rates. This information can guide healthcare professionals in selecting appropriate treatments for specific tumour classifications.
-3.	### Understanding risk factors: 
-Analysis of the dataset might reveal certain risk factors associated with the development or progression of Malignant(M) tumours. These insights can aid in early detection and prevention efforts.
+   The dataset analysis may reveal which features have the most substantial impact on tumour classification. For example, tumour size might be crucial factors in 
+   distinguishing between Benign(B) or Malignant(M) tumours.
+3. ### Evaluation of treatment effectiveness:
+   By examining the treatment and outcome data, it is possible to identify treatment approaches that yield higher success rates. This information can guide 
+   healthcare professionals in selecting appropriate treatments for specific tumour classifications.
+5. ### Understanding risk factors: 
+   Analysis of the dataset might reveal certain risk factors associated with the development or progression of Malignant(M) tumours. These insights can aid in 
+   early detection and prevention efforts.
 4. ### Patient stratification: 
-The dataset can potentially contribute to patient stratification, enabling healthcare providers to identify high-risk patients and design personalized treatment plans based on their specific tumour characteristics.
+   The dataset can potentially contribute to patient stratification, enabling healthcare providers to identify high-risk patients and design personalized treatment 
+   plans based on their specific tumour characteristics.
 5. ### Model performance: 
-Through the use of machine learning models trained on the dataset, it is possible to evaluate the performance and accuracy of different algorithms in cancer classification tasks. This can guide the selection of the most effective model for future applications.
+   Through the use of machine learning models trained on the dataset, it is possible to evaluate the performance and accuracy of different algorithms in cancer 
+   classification tasks. This can guide the selection of the most effective model for future applications.
 
 These findings can be further explored and validated through additional analysis and research in the field of cancer classification.
